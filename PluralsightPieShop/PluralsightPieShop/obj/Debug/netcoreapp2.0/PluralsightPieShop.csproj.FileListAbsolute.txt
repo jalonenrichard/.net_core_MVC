@@ -1,0 +1,11 @@
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.deps.json
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.runtimeconfig.json
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.runtimeconfig.dev.json
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.dll
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.pdb
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.csprojResolveAssemblyReference.cache
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.csproj.CoreCompileInputs.cache
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.AssemblyInfoInputs.cache
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.AssemblyInfo.cs
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.dll
+D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.pdb

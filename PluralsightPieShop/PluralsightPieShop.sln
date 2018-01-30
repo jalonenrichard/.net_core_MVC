@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightPieShop", "PluralsightPieShop\PluralsightPieShop.csproj", "{A698DC3D-3F44-4463-88C4-0464CD344438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A698DC3D-3F44-4463-88C4-0464CD344438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A698DC3D-3F44-4463-88C4-0464CD344438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A698DC3D-3F44-4463-88C4-0464CD344438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A698DC3D-3F44-4463-88C4-0464CD344438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7B5563-FBF1-403D-88DC-38910DA77A8E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://richardjalonen.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PluralsightPieShop\\PluralsightPieShop.csproj
+		SccProjectName1 = PluralsightPieShop
+		SccLocalPath1 = PluralsightPieShop
+	EndGlobalSection
+EndGlobal
