@@ -9,3 +9,14 @@ D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\Plu
 D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.AssemblyInfo.cs
 D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.dll
 D:\VS_Projects\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.pdb
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.deps.json
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.runtimeconfig.json
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.runtimeconfig.dev.json
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.dll
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\bin\Debug\netcoreapp2.0\PluralsightPieShop.pdb
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.csprojResolveAssemblyReference.cache
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.csproj.CoreCompileInputs.cache
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.AssemblyInfoInputs.cache
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.AssemblyInfo.cs
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.dll
+D:\Github\.net_core_MVC\PluralsightPieShop\PluralsightPieShop\obj\Debug\netcoreapp2.0\PluralsightPieShop.pdb

@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\VS_Projects\\PluralsightPieShop\\PluralsightPieShop\\PluralsightPieShop.csproj",
+      "projectUniqueName": "D:\\Github\\.net_core_MVC\\PluralsightPieShop\\PluralsightPieShop\\PluralsightPieShop.csproj",
       "projectName": "PluralsightPieShop",
-      "projectPath": "D:\\VS_Projects\\PluralsightPieShop\\PluralsightPieShop\\PluralsightPieShop.csproj",
+      "projectPath": "D:\\Github\\.net_core_MVC\\PluralsightPieShop\\PluralsightPieShop\\PluralsightPieShop.csproj",
       "packagesPath": "C:\\Users\\Muffin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Projects\\PluralsightPieShop\\PluralsightPieShop\\obj\\",
+      "outputPath": "D:\\Github\\.net_core_MVC\\PluralsightPieShop\\PluralsightPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
